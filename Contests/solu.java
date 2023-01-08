@@ -1,6 +1,3 @@
-
-
-
 public class solu {
     
     public static int xorBeauty(int[] nums) {
