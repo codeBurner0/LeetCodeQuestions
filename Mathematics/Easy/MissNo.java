@@ -1,7 +1,5 @@
-package Easy;
-
 public class MissNo {
-    public static int missingNumber(int[] nums) {
+    public static int Number(int[] nums) {
         int n=nums.length;
         int res=0;
         while(n>0){
@@ -12,6 +10,6 @@ public class MissNo {
     }
     public static void main(String[] args) {
         int[] arr={3,0,1};
-        System.out.println(missingNumber(arr));
+        System.out.println(Number(arr));
     }
 }

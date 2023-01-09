@@ -1,4 +1,3 @@
-package Easy;
 public class sqrt {
     public static int mySqrt(int x) {
         long start=1,end=x,ans=0;
